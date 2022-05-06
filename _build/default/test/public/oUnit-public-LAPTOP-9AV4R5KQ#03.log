@@ -1,0 +1,15 @@
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#03 I: Start test public:2:public_mutop_simple_def_and_let.
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#03 I: Test public:2:public_mutop_simple_def_and_let is successful.
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#03 I: End test public:2:public_mutop_simple_def_and_let.
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#03 I: Start test public:8:public_expr_minus_one.
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#03 I: Test public:8:public_expr_minus_one is successful.
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#03 I: End test public:8:public_expr_minus_one.
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#03 I: Start test public:13:public_expr_simple_concat.
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#03 I: Test public:13:public_expr_simple_concat is successful.
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#03 I: End test public:13:public_expr_simple_concat.
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#03 I: Start test public:20:public_expr_single_fun.
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#03 I: Test public:20:public_expr_single_fun is successful.
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#03 I: End test public:20:public_expr_single_fun.
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#03 I: Start test public:24:public_expr_single_not.
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#03 I: Test public:24:public_expr_single_not is successful.
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#03 I: End test public:24:public_expr_single_not.

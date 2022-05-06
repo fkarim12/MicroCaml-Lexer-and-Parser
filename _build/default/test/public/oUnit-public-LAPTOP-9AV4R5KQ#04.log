@@ -1,0 +1,15 @@
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#04 I: Start test public:3:public_expr_add1.
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#04 I: Test public:3:public_expr_add1 is successful.
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#04 I: End test public:3:public_expr_add1.
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#04 I: Start test public:10:public_expr_sub1.
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#04 I: Test public:10:public_expr_sub1 is successful.
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#04 I: End test public:10:public_expr_sub1.
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#04 I: Start test public:15:public_expr_simple_mult.
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#04 I: Test public:15:public_expr_simple_mult is successful.
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#04 I: End test public:15:public_expr_simple_mult.
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#04 I: Start test public:23:public_expr_single_notequal.
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#04 I: Test public:23:public_expr_single_notequal is successful.
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#04 I: End test public:23:public_expr_single_notequal.
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#04 I: Start test public:28:public_err_def_not_top_level.
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#04 I: Test public:28:public_err_def_not_top_level is successful.
+2021-11-25T04:28:59+00:00 LAPTOP-9AV4R5KQ#04 I: End test public:28:public_err_def_not_top_level.
